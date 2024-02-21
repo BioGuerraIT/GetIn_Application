@@ -1,2 +1,3 @@
 chatbot_telegram/venv
 chatbot_telegram/.env
+chatbot_telegram/getin_chat_bot.py
